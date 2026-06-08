@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KPLProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|c:\\kplproj\\view\\deletebarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\deletebarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\createbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\createbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|c:\\kplproj\\view\\caribarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\caribarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|C:\\KPLProj\\main\\model\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\model\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|C:\\KPLProj\\main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|C:\\KPLProj\\main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\tabelbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\tabelbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\homepageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\caribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\caribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\createbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|c:\\kplproj\\main\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\data\\databarang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\View\\HomepageUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:View\\HomepageUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\tabelbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\tabelbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\caribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\caribarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\tabelbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\tabelbarang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\deletebarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|C:\\KPLProj\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\caribarang.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\caribarang.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|C:\\KPLProj\\view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F982D057-3363-4650-ACD3-2964ABF9F936}|View\\View.csproj|solutionrelative:view\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|C:\\KPLProj\\main\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68C41DB-1375-4BEA-B3E8-634376E8F2BF}|Main\\Main.csproj|solutionrelative:main\\progam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteBarang.Designer.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\DeleteBarang.Designer.cs",
+              "RelativeDocumentMoniker": "View\\DeleteBarang.Designer.cs",
+              "ToolTip": "C:\\KPLProj\\View\\DeleteBarang.Designer.cs",
+              "RelativeToolTip": "View\\DeleteBarang.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T15:24:42.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CariBarang.Designer.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\CariBarang.Designer.cs",
+              "RelativeDocumentMoniker": "View\\CariBarang.Designer.cs",
+              "ToolTip": "C:\\KPLProj\\View\\CariBarang.Designer.cs",
+              "RelativeToolTip": "View\\CariBarang.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T15:23:11.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TabelBarang.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\TabelBarang.cs",
+              "RelativeDocumentMoniker": "View\\TabelBarang.cs",
+              "ToolTip": "C:\\KPLProj\\View\\TabelBarang.cs",
+              "RelativeToolTip": "View\\TabelBarang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:47:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Homepage.cs",
+              "RelativeDocumentMoniker": "View\\Homepage.cs",
+              "ToolTip": "C:\\KPLProj\\View\\Homepage.cs",
+              "RelativeToolTip": "View\\Homepage.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA9wC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:26:21.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Program.cs",
+              "RelativeDocumentMoniker": "View\\Program.cs",
+              "ToolTip": "C:\\KPLProj\\View\\Program.cs",
+              "RelativeToolTip": "View\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:54:23.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "C:\\KPLProj\\Main\\Model\\Barang.cs",
+              "RelativeDocumentMoniker": "Main\\Model\\Barang.cs",
+              "ToolTip": "C:\\KPLProj\\Main\\Model\\Barang.cs",
+              "RelativeToolTip": "Main\\Model\\Barang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:29:44.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBarang.Designer.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\CreateBarang.Designer.cs",
+              "RelativeDocumentMoniker": "View\\CreateBarang.Designer.cs",
+              "ToolTip": "C:\\KPLProj\\View\\CreateBarang.Designer.cs",
+              "RelativeToolTip": "View\\CreateBarang.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwK0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:44:25.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateBarang.cs [Design]",
+              "DocumentMoniker": "C:\\KPLProj\\View\\CreateBarang.cs",
+              "RelativeDocumentMoniker": "View\\CreateBarang.cs",
+              "ToolTip": "C:\\KPLProj\\View\\CreateBarang.cs [Design]",
+              "RelativeToolTip": "View\\CreateBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:42:55.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateBarang.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\CreateBarang.cs",
+              "RelativeDocumentMoniker": "View\\CreateBarang.cs",
+              "ToolTip": "C:\\KPLProj\\View\\CreateBarang.cs",
+              "RelativeToolTip": "View\\CreateBarang.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAawBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:28:24.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomepageUser.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\HomepageUser.cs",
+              "RelativeDocumentMoniker": "View\\HomepageUser.cs",
+              "ToolTip": "C:\\KPLProj\\View\\HomepageUser.cs",
+              "RelativeToolTip": "View\\HomepageUser.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAawBEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:27:10.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteBarang.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\DeleteBarang.cs",
+              "RelativeDocumentMoniker": "View\\DeleteBarang.cs",
+              "ToolTip": "C:\\KPLProj\\View\\DeleteBarang.cs",
+              "RelativeToolTip": "View\\DeleteBarang.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:06:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dataAkun.json",
+              "DocumentMoniker": "C:\\KPLProj\\Main\\Data\\dataAkun.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataAkun.json",
+              "ToolTip": "C:\\KPLProj\\Main\\Data\\dataAkun.json",
+              "RelativeToolTip": "Main\\Data\\dataAkun.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:20:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dataBarang.json",
+              "DocumentMoniker": "C:\\KPLProj\\Main\\Data\\dataBarang.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataBarang.json",
+              "ToolTip": "C:\\KPLProj\\Main\\Data\\dataBarang.json",
+              "RelativeToolTip": "Main\\Data\\dataBarang.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T11:20:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "C:\\KPLProj\\View\\Login.cs",
+              "RelativeToolTip": "View\\Login.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAawE0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:43:03.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Register.cs",
+              "RelativeDocumentMoniker": "View\\Register.cs",
+              "ToolTip": "C:\\KPLProj\\View\\Register.cs",
+              "RelativeToolTip": "View\\Register.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAawIMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:40:48.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Akun.cs",
+              "DocumentMoniker": "C:\\KPLProj\\Main\\Model\\Akun.cs",
+              "RelativeDocumentMoniker": "Main\\Model\\Akun.cs",
+              "ToolTip": "C:\\KPLProj\\Main\\Model\\Akun.cs",
+              "RelativeToolTip": "Main\\Model\\Akun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:21:13.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CariBarang.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\CariBarang.cs",
+              "RelativeDocumentMoniker": "View\\CariBarang.cs",
+              "ToolTip": "C:\\KPLProj\\View\\CariBarang.cs",
+              "RelativeToolTip": "View\\CariBarang.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:03:03.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "C:\\KPLProj\\View\\Login.cs [Design]",
+              "RelativeToolTip": "View\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:42:57.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CariBarang.cs [Design]",
+              "DocumentMoniker": "C:\\KPLProj\\View\\CariBarang.cs",
+              "RelativeDocumentMoniker": "View\\CariBarang.cs",
+              "ToolTip": "C:\\KPLProj\\View\\CariBarang.cs [Design]",
+              "RelativeToolTip": "View\\CariBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:54:42.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TabelBarang.cs [Design]",
+              "DocumentMoniker": "C:\\KPLProj\\View\\TabelBarang.cs",
+              "RelativeDocumentMoniker": "View\\TabelBarang.cs",
+              "ToolTip": "C:\\KPLProj\\View\\TabelBarang.cs [Design]",
+              "RelativeToolTip": "View\\TabelBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:45:41.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomepageUser.cs [Design]",
+              "DocumentMoniker": "C:\\KPLProj\\View\\HomepageUser.cs",
+              "RelativeDocumentMoniker": "View\\HomepageUser.cs",
+              "ToolTip": "C:\\KPLProj\\View\\HomepageUser.cs [Design]",
+              "RelativeToolTip": "View\\HomepageUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:11:35.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Homepage.cs",
+              "RelativeDocumentMoniker": "View\\Homepage.cs",
+              "ToolTip": "D:\\GUI-KPL\\View\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:21:02.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TabelBarang.Designer.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\TabelBarang.Designer.cs",
+              "RelativeDocumentMoniker": "View\\TabelBarang.Designer.cs",
+              "ToolTip": "C:\\KPLProj\\View\\TabelBarang.Designer.cs",
+              "RelativeToolTip": "View\\TabelBarang.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:01:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteBarang.cs [Design]",
+              "DocumentMoniker": "C:\\KPLProj\\View\\DeleteBarang.cs",
+              "RelativeDocumentMoniker": "View\\DeleteBarang.cs",
+              "ToolTip": "C:\\KPLProj\\View\\DeleteBarang.cs [Design]",
+              "RelativeToolTip": "View\\DeleteBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:05:12.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Register.cs",
+              "RelativeDocumentMoniker": "View\\Register.cs",
+              "ToolTip": "C:\\KPLProj\\View\\Register.cs [Design]",
+              "RelativeToolTip": "View\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:48:59.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "View.csproj",
+              "DocumentMoniker": "C:\\KPLProj\\View\\View.csproj",
+              "RelativeDocumentMoniker": "View\\View.csproj",
+              "ToolTip": "C:\\KPLProj\\View\\View.csproj",
+              "RelativeToolTip": "View\\View.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T13:58:49.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Main.csproj",
+              "DocumentMoniker": "C:\\KPLProj\\Main\\Main.csproj",
+              "RelativeDocumentMoniker": "Main\\Main.csproj",
+              "ToolTip": "C:\\KPLProj\\Main\\Main.csproj",
+              "RelativeToolTip": "Main\\Main.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T11:20:36.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "View\\Register.Designer.cs",
+              "ToolTip": "C:\\KPLProj\\View\\Register.Designer.cs",
+              "RelativeToolTip": "View\\Register.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:50:17.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CariBarang.resx",
+              "DocumentMoniker": "C:\\KPLProj\\View\\CariBarang.resx",
+              "RelativeDocumentMoniker": "View\\CariBarang.resx",
+              "ToolTip": "C:\\KPLProj\\View\\CariBarang.resx",
+              "RelativeToolTip": "View\\CariBarang.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-12T13:04:05.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Homepage.Designer.cs",
+              "DocumentMoniker": "C:\\KPLProj\\View\\Homepage.Designer.cs",
+              "RelativeDocumentMoniker": "View\\Homepage.Designer.cs",
+              "ToolTip": "C:\\KPLProj\\View\\Homepage.Designer.cs",
+              "RelativeToolTip": "View\\Homepage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:20:56.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Progam.cs",
+              "DocumentMoniker": "C:\\KPLProj\\Main\\Progam.cs",
+              "RelativeDocumentMoniker": "Main\\Progam.cs",
+              "ToolTip": "C:\\KPLProj\\Main\\Progam.cs",
+              "RelativeToolTip": "Main\\Progam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:53:36.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
