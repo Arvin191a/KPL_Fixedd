@@ -1,4 +1,6 @@
-﻿namespace View
+﻿// nafis
+
+namespace View
 {
     partial class CreateBarang
     {
