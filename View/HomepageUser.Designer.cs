@@ -40,21 +40,23 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(371, 58);
+            label1.Location = new Point(325, 44);
             label1.Name = "label1";
             label1.RightToLeft = RightToLeft.No;
-            label1.Size = new Size(126, 20);
+            label1.Size = new Size(100, 15);
             label1.TabIndex = 0;
             label1.Text = "HOMEPAGE USER";
+            
             // 
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Nama, Kode, Jumlah, Harga });
-            dataGridView1.Location = new Point(196, 101);
+            dataGridView1.Location = new Point(172, 76);
+            dataGridView1.Margin = new Padding(3, 2, 3, 2);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(550, 341);
+            dataGridView1.Size = new Size(481, 256);
             dataGridView1.TabIndex = 1;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -88,12 +90,11 @@
             // 
             // HomepageUser
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(914, 600);
+            ClientSize = new Size(800, 450);
             Controls.Add(dataGridView1);
             Controls.Add(label1);
-            Margin = new Padding(3, 4, 3, 4);
             Name = "HomepageUser";
             Text = "HomepageUser";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
